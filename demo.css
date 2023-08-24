@@ -1,0 +1,53 @@
+body{
+	height: auto;
+	width: 100%;
+	background-color: yellow;
+}
+header{
+	height:200px;
+	width: 100%;
+	background-color: purple;
+}
+nav{
+	height:20px;
+	width:;
+	float: left;
+	background-color: green;
+}
+head{
+	height: 20px;
+	background-color: red;
+}
+.home{
+text-align:center;
+}
+.home li{
+	float: left;
+text-align:center;
+display:inline-block;
+height:100%;
+margin-top:17px;
+width:;
+position: center;
+}
+.home li a{
+	float: left;
+text-align:center;
+color:white;
+text-decoration:none;
+background-color:black;
+margin:1px;
+padding:5px;
+padding-right:50px;
+padding-left:50px;
+padding-top:20px;
+padding-bottom:20px;
+}
+.pages{
+	height: 80px;
+	width:100%;
+}
+.coverage{
+	height: 100px;
+	width:100%;
+}
